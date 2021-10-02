@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003872730489",
+    "firebase_url": "https://bot-webscrapping-default-rtdb.firebaseio.com",
+    "project_id": "bot-webscrapping",
+    "storage_bucket": "bot-webscrapping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003872730489:android:d8eb8277ffdb036e1dc3a8",
+        "android_client_info": {
+          "package_name": "com.example.bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003872730489-dc6803vh0hhhjcpnpnke2b8ggpnmc6h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyFFoOL5FAiZN5of8AXCjs19eG0lLI6dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003872730489-dc6803vh0hhhjcpnpnke2b8ggpnmc6h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
